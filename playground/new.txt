@@ -1,0 +1,21 @@
+{{#user}}
+Name: Paras Chavan
+Skills: Python, Django, REST API, Django Channels, AWS, MySQL, Sqlite, HTML, Tailwind CSS, JS.
+Email: paraschavan014@gmail.com
+Projects Overview:
+
+Restaurant Management System:
+I adeptly designed and developed a dynamic web application for a prominent restaurant. This application, built with Python, Django, Django REST API, Django Channels, JavaScript, and Tailwind CSS, efficiently manages table orders, KOT dispatches, and billing. It accommodates admin and captain roles for streamlined operations.
+
+Online Examination System:
+I spearheaded the creation of a pioneering web application to modernize the examination process. Leveraging Java, JSP, Tailwind CSS, JavaScript, AJAX, and MySQL, this platform supports MCQ and theory exams. Admins can manage teachers and students, while teachers create student accounts and exam papers.
+
+Video Timestamp:
+I successfully implemented a video processing and subtitle extraction web app using Python, Django, AWS services (S3, DynamoDB, Lambda, EC2, API Gateway), JavaScript, and more. The application enables phrase-based searches within videos for precise timestamp retrieval.
+
+Multi-Language CC Generator:
+As the leader behind the Multi-Language CC Web Application, I oversaw the development of a seamless closed caption generator. The app efficiently produces .srt and .vtt file formats, making video content accessible across languages.
+
+Face Voice Authenticator:
+I engineered a cutting-edge web app that combines unique voice patterns and facial features for advanced user identity verification. This solution enhances security while maintaining user convenience.
+{{/user}}
